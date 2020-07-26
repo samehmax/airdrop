@@ -1,2 +1,0 @@
-# airdrop
-GitHub Pages
